@@ -1,0 +1,62 @@
+/*FILE : FinalProject_Fitzgerald.css
+PROG : Luke Fitzgerald
+PURP : Style Sheet for Final Project*/
+
+#header
+{
+	height: 75px;
+	background-color: #30C530;
+}
+#headerText
+{
+	font-family: "Showcard Gothic";
+	font-size: 60px;
+	text-align: center;
+}
+#wrapper
+{
+	height: 500px;
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	/*border-width: 0px 1px 0px 1px;
+	border-style: solid;
+	border-color: #30C530;*/
+}
+#footer
+{
+	height: 45px;
+	background-color: #30c530;
+}
+#footer2
+{
+	height: 45px;
+	background-color: #30c530;
+	margin-left: auto;
+	margin-right: auto;
+}
+#separator
+{
+	height: 25px;
+	background-color: #30c530;
+ 	margin-left: auto;
+	margin-right: auto;
+}
+#largeText
+{
+	font-family: "Showcard Gothic";
+	font-size: 35px;
+	text-align: center;
+}
+#form1
+{
+	font-family: "Showcard Gothic";
+	font-size: 60px;
+	text-align: center;
+}
+#form2
+{
+	text-align: center;
+    font-family: "Showcard Gothic";
+    font-size: 25px
+}
