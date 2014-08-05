@@ -16,7 +16,7 @@
      else
      {
          //connect to db
-         $link  =  mysqli_connect ("localhost", "root", "1Rodgers2", "cpt283db");
+         $link  =  mysqli_connect ("localhost", "root", "pw", "cpt283db");
          if(!$link) die("Could not make database connection");
          
               print<<<HTML

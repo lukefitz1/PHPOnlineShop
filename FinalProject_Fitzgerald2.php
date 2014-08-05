@@ -7,7 +7,7 @@
      extract($_POST);
 
      //connect to database
-     $link  =  mysqli_connect ("localhost", "root", "1Rodgers2", "cpt283db");
+     $link  =  mysqli_connect ("localhost", "root", "pw", "cpt283db");
      if(!$link) die("Could not make database connection");
      
      //check to see if an option is selected
